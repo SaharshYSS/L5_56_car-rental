@@ -1,0 +1,14 @@
+Add Nexon (bad rate): ERROR - Daily rate must be positive, got -500
+Rent Swift: 4500
+Rent Swift again: ERROR - Car KA01AB1234 is already rented
+Rent Innova: ERROR - End date must be after start date
+Lookup injection: []
+Available while Swift is out: ['KA02CD5678']
+Extra km charge: 600
+Return unknown car: ERROR - Unknown car: XX00XX0000
+Promo price: 4050.0
+Plate valid? True
+Licence hash: 634fd9c75153e27720c9d70ff84c05972a5f7d575fa39530538cfe7b807a114e
+Admin: False
+Available: ['KA01AB1234', 'KA02CD5678']
+Receipt saved to: /tmp/tmpk3wiukvj.txt
