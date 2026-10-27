@@ -1,0 +1,12 @@
+Rent Swift: 4500
+Rent Swift again: 1500
+Rent Innova: -9000
+Lookup injection: [('Ravi', 'DL-0420110012345', '9845012345'), ('Meera', 'DL-0420110099999', '9845099999')]
+Extra km charge: 600
+Return unknown car: None
+Promo price: 4050.0
+Plate valid? True
+Licence hash: acb5ec2096ab233046fd883ca20b72a72a1a9354
+Admin: True
+Available: ['KA01AB1234', 'KA02CD5678', 'KA03EF9999']
+Receipt saved to: /tmp/tmp78kfniew.txt
